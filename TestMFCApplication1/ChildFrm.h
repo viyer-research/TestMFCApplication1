@@ -9,7 +9,7 @@ class CChildFrame : public CMDIChildWndEx
 public:
 	CChildFrame();
 
-// Attributes my client updates
+// Attributes my client updates // my server updates
 	public:
 
 // Operations
