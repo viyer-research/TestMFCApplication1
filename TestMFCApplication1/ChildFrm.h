@@ -9,8 +9,8 @@ class CChildFrame : public CMDIChildWndEx
 public:
 	CChildFrame();
 
-// Attributes
-public:
+// Attributes my client updates
+	public:
 
 // Operations
 public:
